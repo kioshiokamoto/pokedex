@@ -1,5 +1,5 @@
 ## Acerca de
-![Pokemon](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3AInternational_Pok%25C3%25A9mon_logo.svg&psig=AOvVaw1s2opE1FuZ1SdClzL_r4D-&ust=1603161506601000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICAppPQv-wCFQAAAAAdAAAAABAD)
+![Pokemon](https://external-preview.redd.it/tQged7mKJ3cUpNMq5IMeceZvyKP3cTyHqhNmKEQ0Vv8.png?auto=webp&s=fb5fd61cae0bc9cde2bc2a006b1e2aeb0c935ce9)
 Pagina sencilla para consultar pokemones
 
 
